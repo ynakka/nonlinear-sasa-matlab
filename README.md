@@ -1,6 +1,12 @@
 # nonlinear-sasa-matlab
 Matlab implementation of the strain actuated solar arrays for nonlinear precision attitude control
 
+```
+./matrice_two_piezo.m
+
+you can run the simulink models once the matrices are saved in the workspace.
+
+```
 
 ### References:
 ```
